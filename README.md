@@ -11,18 +11,12 @@
 **Languages:** Python (currently mastering)
 **Libraries:** Pandas, NumPy, Matplotlib, TextBlob
 
-## 🏗️ Current Projects & Roadmap
+### 🚀 Featured Projects
 
-### 🔍 Project: Sentiment Analysis on User Reviews (Kaggle)
-*Currently in the **Data Discovery** phase.*
-
-- [x] Identify target dataset on Kaggle (Text-heavy reviews)
-- [ ] Define project scope and analytical questions
-- [ ] Develop modular text-cleaning pipeline (using **TextBlob**)
-- [ ] Perform Exploratory Data Analysis (EDA)
-- [ ] Document findings and sentiment insights
-
-> **Status:** I am currently evaluating datasets on Kaggle to find the perfect "messy" text for a comparative sentiment study. My goal is to apply the NLP concepts I'm mastering in my Master's program to real-world unstructured data.
+* **[Sentiment Analysis on Amazon Reviews](https://github.com/NatalieSullivan-DS/sentiment-analysis-user-reviews)**  
+  A Natural Language Processing (NLP) study comparing TextBlob's sentiment polarity against 1-5 star customer ratings. 
+  * **Key Insight:** Discovered that while TextBlob is highly accurate at detecting positive sentiment, it struggles with neutral and negative nuances.
+  * **Skills used:** Python, Pandas, TextBlob, Data Visualization (Seaborn/Matplotlib)
 <!--
 **NatalieSullivan-DS/NatalieSullivan-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
