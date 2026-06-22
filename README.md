@@ -1,15 +1,13 @@
 ## Hi, I'm Natalie! 👋
 🎓 I am currently a Master's in Data Science student at Ball State University.
 
-🔭 I’m exploring **Natural Language Processing (NLP)** and text cleaning.
+## Completed Courses
+- CS 617 Intro to Programming (Python-based) **Grade: A**
 
-🌱 I’m learning how to transform "messy" real-world data into actionable insights.
+## Courses in Progress
+- DSCI 601 Intro to Data Science 
+- DSCI 605 Data Visualization (R-based)
 
-⚡ Fun fact: I finished my first 16-week programming course in just 8 weeks!
-
-### 🛠 Tech Stack
-**Languages:** Python (currently mastering)
-**Libraries:** Pandas, NumPy, Matplotlib, TextBlob
 
 ### 🚀 Featured Projects
 
@@ -30,4 +28,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ### 🛠 Tech Stack
 -->
