@@ -17,6 +17,7 @@
   * **Skills used:** Python, Pandas, TextBlob, Data Visualization (Seaborn/Matplotlib)
  
 * **[Tidy Tuesdays](https://github.com/NatalieSullivan-DS/Tidy_Tuesdays)**
+
   I'm working alongside other data enthusiasts as they explore the TidyTuesday data sets.
   Visit my repository to see my progress.
 <!--
