@@ -15,6 +15,10 @@
   A Natural Language Processing (NLP) study comparing TextBlob's sentiment polarity against 1-5 star customer ratings. 
   * **Key Insight:** Discovered that while TextBlob is highly accurate at detecting positive sentiment, it struggles with neutral and negative nuances.
   * **Skills used:** Python, Pandas, TextBlob, Data Visualization (Seaborn/Matplotlib)
+ 
+* **[Tidy Tuesdays](https://github.com/NatalieSullivan-DS/Tidy_Tuesdays)**
+  I'm working alongside other data enthusiasts as they explore the TidyTuesday data sets.
+  Visit my repository to see my progress.
 <!--
 **NatalieSullivan-DS/NatalieSullivan-DS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
