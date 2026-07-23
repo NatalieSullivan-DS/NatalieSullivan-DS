@@ -1,13 +1,13 @@
 ## Hi, I'm Natalie! 👋
 🎓 I am currently a Master's in Data Science student at Ball State University.
 
-## Completed Courses
-- CS 617 Intro to Programming (Python-based) **Grade: A**
-
-## Courses in Progress
+## Completed Courses (GPA: 4.00)
+- CS 617 Intro to Programming (Python-based)
 - DSCI 601 Intro to Data Science 
 - DSCI 605 Data Visualization (R-based)
-
+## Upcoming Courses
+- CS 621 Data Analytics
+- DSCI 602 Statistical Methods for Data Science
 
 ### 🚀 Featured Projects
 
