@@ -5,9 +5,9 @@
 - CS 617 Intro to Programming (Python-based)
 - DSCI 601 Intro to Data Science 
 - DSCI 605 Data Visualization (R-based)
-## Upcoming Courses
-- CS 621 Data Analytics
-- DSCI 602 Statistical Methods for Data Science
+## Current Courses
+- CS 621 Data Analytics (Python-based)
+- DSCI 602 Statistical Methods for Data Science (R-based)
 
 ### 🚀 Featured Projects
 
